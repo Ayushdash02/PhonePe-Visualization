@@ -82,7 +82,7 @@ Explore the different components of the PhonePe Power BI project. All preview im
 The main dashboard landing page provides an overview of the report and access to its analytical sections.
 
 <p align="center">
-  <img src="preview/home-page.png" alt="PhonePe Power BI Dashboard Home Page" width="100%">
+  <img src="preview/home-page.jpg" alt="PhonePe Power BI Dashboard Home Page" width="100%">
 </p>
 
 ### 2. 💳 Transaction Analysis
@@ -90,7 +90,7 @@ The main dashboard landing page provides an overview of the report and access to
 Explore transaction value, transaction volume, and regional payment activity through interactive visuals.
 
 <p align="center">
-  <img src="preview/transaction-analysis.png" alt="PhonePe Transaction Analysis Dashboard" width="100%">
+  <img src="preview/transaction-analysis.jpg" alt="PhonePe Transaction Analysis Dashboard" width="100%">
 </p>
 
 ### 3. 👥 Users Analysis
@@ -98,7 +98,7 @@ Explore transaction value, transaction volume, and regional payment activity thr
 Examine registered users and available user-related metrics to understand digital payment adoption.
 
 <p align="center">
-  <img src="preview/users-analysis.png" alt="PhonePe Users Analysis Dashboard" width="100%">
+  <img src="preview/users-analysis.jpg" alt="PhonePe Users Analysis Dashboard" width="100%">
 </p>
 
 ### 4. 💡 Top Insights
@@ -106,7 +106,7 @@ Examine registered users and available user-related metrics to understand digita
 Review the dashboard's highlighted metrics and analytical findings.
 
 <p align="center">
-  <img src="preview/top-insights.png" alt="PhonePe Dashboard Top Insights" width="100%">
+  <img src="preview/top-insights.jpg" alt="PhonePe Dashboard Top Insights" width="100%">
 </p>
 
 ### 5. 🗂️ Data Model
