@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="preview/phonepe-logo.png" alt="PhonePe Logo" width="300">
+  <img src="preview/phonepe-logo.jpg" alt="PhonePe Logo" width="300">
 </p>
 
 <h1 align="center">PhonePe Visualization Dashboard</h1>
